@@ -17,7 +17,7 @@
   <text x="220" y="80" fill="#fff" font-size="22" font-weight="600">Downloader</text>
   <text x="220" y="128" fill="#aaa" font-size="15">Enter a URL or Search Term</text>
   <rect x="220" y="140" width="612" height="48" rx="6" fill="#fff" stroke="#f5b301" stroke-width="3"/>
-  <text x="232" y="170" fill="#111" font-size="13.5">github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV.apk</text>
+  <text x="236" y="173" fill="#111" font-size="24" font-weight="600" letter-spacing="2">7153068</text>
   <rect x="220" y="208" width="120" height="44" rx="6" fill="#e8770e" stroke="#f5b301" stroke-width="3"/>
   <text x="280" y="237" fill="#fff" font-size="18" font-weight="700" text-anchor="middle">Go</text>
   <!-- pastilles -->
@@ -27,7 +27,7 @@
   </g>
   <!-- légende -->
   <g font-size="16" fill="#21130c">
-    <text x="40" y="390"><tspan font-weight="700">1</tspan>  Sélectionne le champ et tape l'adresse, sans espace (le https:// n'est pas nécessaire)</text>
+    <text x="40" y="390"><tspan font-weight="700">1</tspan>  Sélectionne le champ et tape le code de CroissantTV : 7153068</text>
     <text x="40" y="420"><tspan font-weight="700">2</tspan>  Go : le téléchargement démarre, puis la TV propose d'installer CroissantTV</text>
     <text x="40" y="452" fill="#6b5a50" font-size="13">Schéma simplifié : l'apparence de Downloader change selon sa version.</text>
   </g>

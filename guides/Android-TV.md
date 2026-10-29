@@ -58,10 +58,10 @@ Choisis la partie qui correspond à ton appareil.
 ## Étape 3 — Télécharger et installer CroissantTV
 
 1. Ouvre **Downloader**. S'il demande l'accès à tes fichiers ou à tes médias, réponds **Autoriser**.
-2. Sélectionne le champ d'adresse (*Enter a URL or Search Term*) et tape exactement, tout attaché, sans espace :
+2. Sélectionne le champ d'adresse (*Enter a URL or Search Term*) et tape le code de CroissantTV :
 
    ```
-   github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV.apk
+   7153068
    ```
 
 3. Valide avec **Go**. Le téléchargement démarre (une douzaine de mégaoctets).
@@ -71,15 +71,17 @@ Choisis la partie qui correspond à ton appareil.
 
 ![Schéma de l'écran d'accueil de Downloader](../images/downloader.svg)
 
-> [!TIP]
-> **Taper une longue adresse à la télécommande, c'est fastidieux.** Ton téléphone peut servir de clavier :
-> l'application **Google TV** (Android TV et Google TV) ou l'application **Amazon Fire TV** (Fire TV) offrent
-> une télécommande avec un vrai clavier. Vérifie bien chaque caractère avant **Go** : majuscules et
-> tirets comptent.
+**Le code ne marche pas ?** Tape à la place l'adresse complète, tout attaché, sans espace (les majuscules et
+les tirets comptent) :
+
+```
+github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV.apk
+```
 
 > [!TIP]
-> Dans Downloader, ajoute cette adresse à tes **favoris** (*Favorites*) : pour les mises à jour, tu n'auras
-> plus qu'à la sélectionner.
+> Pour taper une adresse plus facilement, ton téléphone peut servir de clavier : l'application **Google TV**
+> (Android TV et Google TV) ou l'application **Amazon Fire TV** (Fire TV) offrent une télécommande avec un
+> vrai clavier.
 
 Au premier lancement, CroissantTV te guide : il te demande ton abonnement IPTV, ou te propose la **démo** pour découvrir l'application sans abonnement.
 
@@ -99,9 +101,9 @@ Pour les TV et boîtiers qui ont un port USB (pas les clés Fire TV). Pratique s
 
 ## Mettre à jour CroissantTV
 
-Quand une nouvelle version est annoncée, refais simplement l'**étape 3** avec la même adresse (ou tes favoris
-Downloader) : elle donne toujours la dernière version. La TV propose de **mettre à jour** CroissantTV :
-accepte. **Tes sources, profils et réglages sont conservés.**
+Quand une nouvelle version est annoncée, refais simplement l'**étape 3** avec le même code, **7153068** : il
+donne toujours la dernière version. La TV propose de **mettre à jour** CroissantTV : accepte. **Tes sources,
+profils et réglages sont conservés.**
 
 ## Désinstaller CroissantTV
 
@@ -113,8 +115,8 @@ Gérer les applications installées › CroissantTV › Désinstaller**).
 | Ce que tu vois | Ce qu'il faut faire |
 |---|---|
 | « Pour des raisons de sécurité, votre TV n'est pas autorisée à installer des applications inconnues » | Downloader n'est pas encore autorisé : choisis **Paramètres** dans ce message, active **Autoriser cette source**, reviens en arrière, puis **Installer**. Ou refais l'étape 2. |
-| Downloader affiche une page d'erreur ou rien ne se télécharge | Une faute de frappe dans l'adresse, le plus souvent : retape-la en vérifiant chaque caractère. |
-| « Application non installée » | Une ancienne version de CroissantTV venue d'ailleurs est peut-être installée : désinstalle-la, puis recommence. Si ça persiste, ton appareil est peut-être trop ancien (voir les [questions fréquentes](../FAQ.md)). |
+| Downloader affiche une page d'erreur ou rien ne se télécharge | Une faute de frappe, le plus souvent : retape le code **7153068** en vérifiant chaque chiffre. S'il ne marche toujours pas, tape l'adresse complète (étape 3). |
+| « Application non installée » | Une version de CroissantTV venue d'ailleurs est peut-être déjà installée : désinstalle-la, puis recommence. Si ça persiste, ton appareil est peut-être trop ancien (voir les [questions fréquentes](../FAQ.md)). |
 | « Google Play Protect » prévient que l'application est inconnue | C'est normal pour une application qui n'est pas encore dans le Play Store : **Plus de détails › Installer quand même**. |
 | Fire TV : pas d'**Options pour les développeurs** | Refais le point 2 de la partie Fire TV : 7 appuis sur le nom de l'appareil dans **À propos**. |
 | Fire TV : Downloader refuse ou n'existe pas | Ta clé est peut-être sous **Vega OS** : voir l'encadré en haut de ce guide. |

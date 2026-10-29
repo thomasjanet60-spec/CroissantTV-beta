@@ -36,7 +36,6 @@
 **Mises à jour**
 - [Comment savoir qu'une nouvelle version est sortie ?](#comment-savoir-quune-nouvelle-version-est-sortie-)
 - [Mes réglages sont-ils conservés lors d'une mise à jour ?](#mes-réglages-sont-ils-conservés-lors-dune-mise-à-jour-)
-- [Puis-je revenir à une version précédente ?](#puis-je-revenir-à-une-version-précédente-)
 
 **Besoin d'aide**
 - [Comment signaler un problème ?](#comment-signaler-un-problème-)
@@ -247,7 +246,7 @@ celle qui est affichée.
 
 Les nouvelles versions de la bêta sont publiées sur
 **[la page de la bêta](https://github.com/thomasjanet60-spec/CroissantTV-beta)**, avec la liste de ce qui
-change. Le numéro de ta version est affiché dans les **Paramètres** (par exemple `1.0.92`).
+change. Le numéro de ta version est affiché dans les **Paramètres** (par exemple `1.0.93`).
 
 Si tu as un compte GitHub, tu peux être prévenu par e-mail : bouton **Watch** de la page, puis **Custom › Releases**.
 
@@ -260,13 +259,6 @@ Si tu as un compte GitHub, tu peux être prévenu par e-mail : bouton **Watch** 
 **Oui**, tant que tu installes la nouvelle version **par-dessus** l'ancienne, sans désinstaller : sources,
 profils, favoris et réglages restent en place. La façon de faire est expliquée dans chaque guide (partie
 « Mettre à jour »).
-
-### Puis-je revenir à une version précédente ?
-
-Toutes les versions restent sur la **[page des versions](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases)**.
-Sur Android, une version plus ancienne ne s'installe pas par-dessus une plus récente : il faut d'abord
-désinstaller, ce qui efface tes réglages. **Écris-nous avant** : une nouvelle version corrigée est souvent
-plus simple.
 
 ---
 

@@ -14,7 +14,7 @@ chaque membre de la famille.
 > CroissantTV **ne fournit aucune chaîne ni aucun film** : il lit l'abonnement que tu as déjà (Xtream, M3U ou
 > portail Stalker). Pas d'abonnement ? Le mode **Démo** te fait découvrir l'application.
 
-**Version actuelle : 1.0.92**, bêta du 29 octobre 2026.
+**Version actuelle : 1.0.93**, bêta du 29 octobre 2026.
 
 ## 1. Choisis ton appareil
 
@@ -22,7 +22,7 @@ chaque membre de la famille.
 |---|---|---|
 | **TV LG**, 2020 ou plus récente | [Kit LG](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-Kit-LG.zip), sur un ordinateur | [Installer sur LG](guides/LG.md) |
 | **TV Samsung**, 2019 ou plus récente | [Kit Samsung](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-Kit-Samsung.zip), sur un ordinateur | [Installer sur Samsung](guides/Samsung.md) |
-| **Android TV, Google TV, Fire TV** (TV, boîtier ou clé) | rien : tout se fait sur la TV | [Installer sur Android TV](guides/Android-TV.md) |
+| **Android TV, Google TV, Fire TV** (TV, boîtier ou clé) | rien : tout se fait sur la TV, avec le code **7153068** dans l'application Downloader | [Installer sur Android TV](guides/Android-TV.md) |
 | **Téléphone ou tablette Android** | [CroissantTV.apk](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV.apk), sur le téléphone | [Installer sur téléphone](guides/Telephone-tablette.md) |
 | **Ordinateur Windows** 10 ou 11 | [Kit Windows](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-Kit-Windows.zip) | [Installer sur Windows](guides/Windows.md) |
 
@@ -50,26 +50,17 @@ une photo de l'écran aide beaucoup. Les idées et les remarques sont aussi les 
 
 ---
 
-## Nouveautés de la version 1.0.92
+## Ce qu'on aimerait que tu essaies
 
-**La bêta arrive sur les TV Samsung et sur Windows.**
+1. **L'installation elle-même**, surtout sur **Samsung** et **Windows** : dis-nous à quelle étape tu as hésité.
+2. **Les profils** : sur l'écran « Qui regarde ? », le pinceau sous chaque profil sert à le personnaliser, et un nouveau profil se crée en plein écran. Un profil protégé par un code se reverrouille après 5 minutes passées hors de l'application.
+3. **Le replay**, si ton abonnement le propose : regarde une émission déjà diffusée jusqu'au bout.
+4. **Les sous-titres en ligne** et la **bande-annonce** des films.
+5. **Avec le Premium** (48 heures offertes) : l'**enregistrement** d'une chaîne, tout de suite ou programmé depuis le guide des programmes (Android TV et Windows), et les pastilles « Nouvelle saison » ou « Nouvel épisode » sur les séries.
+6. **Sur Android** : la sauvegarde de ta configuration dans un fichier, sur une clé USB par exemple, puis sa restauration.
 
-- **Profils** : l'écran « Qui regarde ? » fait peau neuve. Un pinceau sous chaque profil pour le personnaliser, et la création d'un profil en plein écran.
-- **Sous-titres en ligne** : la recherche de sous-titres fonctionne de nouveau (elle ne marchait plus dans la 1.0.88).
-- **Replay** : la fin d'une émission ne fait plus de retour en arrière, et la reprise est plus fluide.
-- **Enregistrement** (Premium, Android TV et Windows) : enregistre une chaîne, ou programme un enregistrement depuis le guide des programmes.
-- **Nouveaux épisodes** (Premium) : une pastille « Nouvelle saison » ou « Nouvel épisode » sur les séries.
-- **Bande-annonce** : le bouton fonctionne de nouveau.
-- **Clé USB** (Android) : sauvegarde et restauration de ta configuration dans un fichier.
-- **Connexion libérée** : quand tu quittes CroissantTV sans l'arrêter, il coupe maintenant le flux. Ton abonnement est libre pour un autre appareil.
-- **Profils protégés par un code** : ils se reverrouillent après 5 minutes passées hors de l'application.
-- Et de nombreuses corrections : synchronisation des profils et des réglages entre appareils, épisode suivant, sport, traductions anglaise et espagnole.
-
-**Tu as la 1.0.88 ?** Installe la 1.0.92 par-dessus, comme expliqué dans la partie « Mettre à jour » de ton
-guide : tes sources, profils et réglages sont conservés.
-
-**Ce qu'on aimerait que tu essaies en priorité :** l'installation elle-même (surtout sur Samsung et Windows),
-l'écran « Qui regarde ? », le replay et, si tu as le Premium, l'enregistrement.
+Bon à savoir : quand tu quittes CroissantTV sans l'arrêter, il coupe le flux. Ton abonnement reste libre pour
+un autre appareil.
 
 ---
 
@@ -82,7 +73,7 @@ l'écran « Qui regarde ? », le replay et, si tu as le Premium, l'enregistremen
 | [CroissantTV-Samsung.wgt](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-Samsung.wgt) | TV Samsung Tizen 5.0 et plus, à signer pour ta TV (Apps2Samsung le fait) |
 | [CroissantTV-Windows-Setup.exe](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-Windows-Setup.exe) | Windows 10 et 11, 64 bits |
 
-Toutes les versions et leurs empreintes SHA-256 : **[page des versions](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases)**.
+Les empreintes SHA-256 des fichiers sont sur la **[page de la version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest)**.
 
 Les logiciels tiers cités dans les guides appartiennent à leurs auteurs : [webOS Dev Manager](https://github.com/webosbrew/dev-manager-desktop)
 (licence Apache 2.0, fourni dans le kit LG) et [Apps2Samsung](https://github.com/Apps2Samsung/Apps2Samsung) (licence MIT).

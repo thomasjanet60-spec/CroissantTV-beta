@@ -25,12 +25,13 @@ chaque membre de la famille.
 | **Android TV, Google TV, Fire TV** (TV, boîtier ou clé) | rien : tout se fait sur la TV, avec le code **7153068** dans l'application Downloader | [Installer sur Android TV](guides/Android-TV.md) |
 | **Téléphone ou tablette Android** | [CroissantTV.apk](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV.apk), sur le téléphone | [Installer sur téléphone](guides/Telephone-tablette.md) |
 | **Ordinateur Windows** 10 ou 11 | [Kit Windows](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-Kit-Windows.zip) | [Installer sur Windows](guides/Windows.md) |
+| **Mac**, macOS 14 Sonoma ou plus récent | [CroissantTV-macOS.dmg](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-macOS.dmg), ou le [Kit Mac](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-Kit-Mac.zip) | [Installer sur Mac](guides/Mac.md) |
 
 Chaque **kit** est un fichier `.zip` qui contient l'application **et son guide en PDF**, à suivre étape par
 étape (celui de LG contient aussi le logiciel à installer sur l'ordinateur). Les liens donnent toujours la
 dernière version.
 
-**Pas encore disponible :** iPhone, iPad, Apple TV et Mac (en préparation).
+**Apple TV :** bientôt. **iPhone et iPad :** pas encore disponibles (en préparation).
 
 Tous les guides et la FAQ dans un seul PDF, à imprimer si tu préfères le papier :
 **[Guide-installation-CroissantTV-beta.pdf](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/Guide-installation-CroissantTV-beta.pdf)**
@@ -80,6 +81,7 @@ un autre appareil.
 | [CroissantTV-LG.ipk](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-LG.ipk) | TV LG webOS 5 et plus, en mode développeur |
 | [CroissantTV-Samsung.wgt](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-Samsung.wgt) | TV Samsung Tizen 5.0 et plus, à signer pour ta TV (Apps2Samsung le fait) |
 | [CroissantTV-Windows-Setup.exe](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-Windows-Setup.exe) | Windows 10 et 11, 64 bits |
+| [CroissantTV-macOS.dmg](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-macOS.dmg) | Mac sous macOS 14 et plus récent (processeur Intel ; sur puce Apple, par Rosetta) |
 
 Les empreintes SHA-256 des fichiers sont sur la **[page de la version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest)**.
 

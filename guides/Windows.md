@@ -5,7 +5,7 @@
 **Compte 5 minutes.** Il faut un ordinateur sous **Windows 10 ou Windows 11** (64 bits).
 
 > [!NOTE]
-> **Mac : pas encore.** La version pour Mac est en préparation.
+> **Sur un Mac ?** Suis le [guide Mac](Mac.md).
 
 > [!NOTE]
 > **Pourquoi Windows affiche-t-il des avertissements ?** Windows se méfie de tout programme récent qui n'a

@@ -89,8 +89,9 @@ es responsable des sources que tu y ajoutes** : n'ajoute que des abonnements aux
 | Fire TV (Amazon) | modèles sous **Fire OS** (pas Vega OS) | [Guide Android TV](guides/Android-TV.md) |
 | Téléphone, tablette Android | Android 5 et plus récent | [Guide téléphone](guides/Telephone-tablette.md) |
 | Ordinateur | **Windows 10 ou 11** | [Guide Windows](guides/Windows.md) |
+| Mac | **macOS 14 Sonoma** et plus récent | [Guide Mac](guides/Mac.md) |
 
-**Pas encore :** iPhone, iPad, Apple TV et Mac (en préparation).
+**Bientôt :** Apple TV. **Pas encore :** iPhone et iPad (en préparation).
 **Non compatibles :** les TV sous d'autres systèmes (VIDAA, Titan OS, Roku…). Les décodeurs des opérateurs
 (Freebox, Livebox, Bbox, SFR…) ne fonctionnent que s'ils sont sous Android TV **et** acceptent les
 applications hors magasin, ce que beaucoup refusent.
@@ -108,7 +109,7 @@ Premium. Les comptes sont réservés aux 15 ans et plus : pour un enfant, c'est 
 ### Pourquoi mon appareil affiche-t-il des avertissements ?
 
 « Sources inconnues », « Appli non reconnue » (Google Play Protect), « Windows a protégé votre ordinateur »
-(SmartScreen), « Ce type de fichier peut être dangereux » (Chrome)… Ces messages apparaissent pour **toute
+(SmartScreen), « Ce type de fichier peut être dangereux » (Chrome), « Apple n'a pas pu confirmer… » (Mac)… Ces messages apparaissent pour **toute
 application qui ne vient pas d'un magasin officiel**. Ils ne veulent pas dire que CroissantTV est dangereux :
 seulement que ton appareil ne le connaît pas encore.
 
@@ -289,5 +290,6 @@ Les idées et les remarques sont aussi les bienvenues : c'est à ça que sert un
 
 Chaque guide a sa partie « Désinstaller » : [LG](guides/LG.md#désinstaller-croissanttv) ·
 [Samsung](guides/Samsung.md#désinstaller-croissanttv) · [Android TV](guides/Android-TV.md#désinstaller-croissanttv) ·
-[téléphone](guides/Telephone-tablette.md#désinstaller-croissanttv) · [Windows](guides/Windows.md#désinstaller-croissanttv).
-Une désinstallation efface tes réglages sur cet appareil.
+[téléphone](guides/Telephone-tablette.md#désinstaller-croissanttv) · [Windows](guides/Windows.md#désinstaller-croissanttv) ·
+[Mac](guides/Mac.md#désinstaller-croissanttv).
+Une désinstallation efface tes réglages sur cet appareil, sauf sur Mac (le guide Mac dit comment les effacer aussi).

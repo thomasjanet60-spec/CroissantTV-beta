@@ -36,8 +36,8 @@ Sur chaque écran :
 - la réponse marquée **« Actuel »** est le réglage en place : <kbd>OK</kbd> suffit pour le garder ;
 - le **cadre doré** montre la réponse choisie, et l'**aperçu** à droite montre ce qu'elle change. Sur
   « Plutôt sombre ou plutôt clair ? », tout l'écran prend les couleurs de la réponse ;
-- la petite étiquette sous l'aperçu dit à qui s'applique la réponse : **tout le foyer**, **ton profil** ou
-  **cet appareil** ;
+- la petite étiquette sous l'aperçu dit à qui s'applique la réponse : **ton profil** (les autres profils
+  gardent leurs réglages) ou **cet appareil** ;
 - **« Autre choix… »** ouvre le réglage en détail dans les Paramètres ; <kbd>Retour</kbd> ramène à la question ;
 - une réponse marquée **Premium** est libre pendant les 48 heures de découverte.
 
@@ -59,6 +59,7 @@ réponses » reprend à la première question.
 ## 3. Plus tard
 
 - Les questions se relancent à tout moment : **Paramètres › Guide de personnalisation**, la première ligne.
+  Chaque membre de la famille peut les reprendre sur son propre profil. Un profil enfant n'y a pas accès.
 - Si CroissantTV était déjà installé et réglé sur ton appareil, une seule question s'affiche, une fois :
   **« Que veux-tu voir en allumant CroissantTV ? »**. « Dernière chaîne » relance en plein écran la chaîne
   que tu regardais ; <kbd>Retour</kbd> t'emmène alors au guide TV, posé sur cette chaîne.

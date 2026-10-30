@@ -14,7 +14,7 @@ chaque membre de la famille.
 > CroissantTV **ne fournit aucune chaîne ni aucun film** : il lit l'abonnement que tu as déjà (Xtream, M3U ou
 > portail Stalker). Pas d'abonnement ? Le mode **Démo** te fait découvrir l'application.
 
-**Version actuelle : 1.0.94**, bêta du 30 octobre 2026.
+**Version actuelle : 1.0.95**, bêta du 30 octobre 2026.
 
 ## 1. Choisis ton appareil
 
@@ -58,7 +58,7 @@ une photo de l'écran aide beaucoup. Les idées et les remarques sont aussi les 
 
 ## Ce qu'on aimerait que tu essaies
 
-1. **L'installation elle-même**, surtout sur **Samsung** et **Windows** : dis-nous à quelle étape tu as hésité.
+1. **L'installation elle-même**, surtout sur **Samsung** et **LG** : dis-nous à quelle étape tu as hésité.
 2. **Les questions du premier lancement** ([Premiers pas](guides/Premiers-pas.md)) : une question était-elle
    floue, un aperçu trompeur, un réglage introuvable ensuite ? Avec la télécommande LG, essaie aussi le pointeur.
 3. **Les profils** : sur l'écran « Qui regarde ? », le pinceau sous chaque profil sert à le personnaliser, et un nouveau profil se crée en plein écran. Un profil protégé par un code se reverrouille après 5 minutes passées hors de l'application.

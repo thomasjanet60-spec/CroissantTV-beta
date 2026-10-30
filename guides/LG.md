@@ -111,7 +111,7 @@ Au premier lancement, webOS Dev Manager ouvre un assistant en anglais. Voici quo
 4. Attends la fin de la barre de progression (quelques secondes à une minute).
 5. Sur la TV, appuie sur <kbd>Accueil</kbd> : **CroissantTV** est dans la liste des applications (souvent tout au bout). Ouvre-la.
 
-Au premier lancement, CroissantTV te guide : il te demande ton abonnement IPTV, ou te propose la **démo** pour découvrir l'application sans abonnement.
+Au premier lancement, CroissantTV te guide : il te demande ton abonnement IPTV, ou te propose la **démo** pour découvrir l'application sans abonnement. Il te propose ensuite de régler l'affichage, la langue et le démarrage en quelques questions : voir **[Premiers pas](Premiers-pas.md)**.
 
 > [!TIP]
 > Pour retrouver CroissantTV plus vite, déplace sa tuile au début de la liste : sélectionne-la, maintiens

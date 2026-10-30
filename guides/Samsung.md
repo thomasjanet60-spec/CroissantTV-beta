@@ -97,7 +97,7 @@ le plus souvent, retaper l'adresse IP dans la fenêtre Mode développeur, puis r
 4. Attends la fin de l'installation : Apps2Samsung affiche **« CroissantTV has been successfully installed! »** (installé avec succès).
 5. Sur la TV : touche <kbd>Accueil</kbd>, **Applications** : CroissantTV y est. Ouvre-la.
 
-Au premier lancement, CroissantTV te guide : il te demande ton abonnement IPTV, ou te propose la **démo** pour découvrir l'application sans abonnement.
+Au premier lancement, CroissantTV te guide : il te demande ton abonnement IPTV, ou te propose la **démo** pour découvrir l'application sans abonnement. Il te propose ensuite de régler l'affichage, la langue et le démarrage en quelques questions : voir **[Premiers pas](Premiers-pas.md)**.
 
 > [!TIP]
 > Pour l'avoir sous la main, ajoute CroissantTV à l'accueil : dans **Applications**, sélectionne sa tuile,

@@ -34,7 +34,7 @@ Le navigateur peut prévenir que **« ce fichier n'est pas fréquemment téléch
 4. Quand elle affiche **« Terminé. CroissantTV est installé. »**, appuie sur la touche <kbd>Entrée</kbd> pour la fermer.
 5. Un raccourci **CroissantTV** t'attend **sur le bureau** et dans le **menu Démarrer**. Double-clique dessus.
 
-Au premier lancement, CroissantTV te guide : il te demande ton abonnement IPTV, ou te propose la **démo** pour découvrir l'application sans abonnement.
+Au premier lancement, CroissantTV te guide : il te demande ton abonnement IPTV, ou te propose la **démo** pour découvrir l'application sans abonnement. Il te propose ensuite de régler l'affichage, la langue et le démarrage en quelques questions : voir **[Premiers pas](Premiers-pas.md)**.
 
 > [!WARNING]
 > **La fenêtre noire parle de « WebView2 introuvable » ?** CroissantTV a besoin de ce composant gratuit de

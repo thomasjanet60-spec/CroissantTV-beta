@@ -246,7 +246,7 @@ celle qui est affichée.
 
 Les nouvelles versions de la bêta sont publiées sur
 **[la page de la bêta](https://github.com/thomasjanet60-spec/CroissantTV-beta)**, avec la liste de ce qui
-change. Le numéro de ta version est affiché dans les **Paramètres** (par exemple `1.0.93`).
+change. Le numéro de ta version est affiché dans les **Paramètres** (par exemple `1.0.94`).
 
 Si tu as un compte GitHub, tu peux être prévenu par e-mail : bouton **Watch** de la page, puis **Custom › Releases**.
 

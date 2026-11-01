@@ -14,7 +14,7 @@ chaque membre de la famille.
 > CroissantTV **ne fournit aucune chaîne ni aucun film** : il lit l'abonnement que tu as déjà (Xtream, M3U ou
 > portail Stalker). Pas d'abonnement ? Le mode **Démo** te fait découvrir l'application.
 
-**Version actuelle : 1.0.95**, bêta du 30 octobre 2026.
+**Version actuelle : 1.0.96**, bêta du 1er novembre 2026.
 
 ## 1. Choisis ton appareil
 

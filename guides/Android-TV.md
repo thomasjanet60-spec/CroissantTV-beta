@@ -101,9 +101,12 @@ Pour les TV et boîtiers qui ont un port USB (pas les clés Fire TV). Pratique s
 
 ## Mettre à jour CroissantTV
 
-Quand une nouvelle version est annoncée, refais simplement l'**étape 3** avec le même code, **7153068** : il
-donne toujours la dernière version. La TV propose de **mettre à jour** CroissantTV : accepte. **Tes sources,
-profils et réglages sont conservés.**
+CroissantTV propose lui-même la nouvelle version : une bulle l'annonce, et **Paramètres › Système & à propos ›
+Rechercher une mise à jour** l'installe. Avec le réglage **Mises à jour › Installer toute seule**, elle
+s'installe quand tu quittes l'application. Android te demande de confirmer : accepte. **Tes sources, profils et
+réglages sont conservés.**
+
+Tu peux aussi refaire l'**étape 3** avec le même code, **7153068** : il donne toujours la dernière version.
 
 ## Désinstaller CroissantTV
 

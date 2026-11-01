@@ -48,10 +48,12 @@ Au premier lancement, CroissantTV te guide : il te demande ton abonnement IPTV, 
 
 ## Mettre à jour CroissantTV
 
-Pour l'instant, sur téléphone et tablette, **CroissantTV ne sait pas se mettre à jour tout seul**. Quand une
-nouvelle version est annoncée, rouvre simplement **le même lien** (étape 1) : il donne toujours la dernière
-version. Android propose de **mettre à jour** l'application : accepte. **Tes sources, profils et réglages
-sont conservés.**
+CroissantTV propose lui-même la nouvelle version : une bulle l'annonce, et **Paramètres › Système & à propos ›
+Rechercher une mise à jour** l'installe (bouton **Installer**). Avec le réglage **Mises à jour › Installer toute
+seule**, elle s'installe quand tu quittes l'application. Android te demande de confirmer : accepte. **Tes
+sources, profils et réglages sont conservés.**
+
+Tu peux aussi rouvrir **le même lien** (étape 1) : il donne toujours la dernière version.
 
 ## Désinstaller CroissantTV
 

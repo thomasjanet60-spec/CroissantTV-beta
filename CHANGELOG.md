@@ -3,6 +3,38 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.98 — 2 novembre 2026
+
+Comprend aussi les nouveautés de la 1.0.97, qui n'a pas été publiée.
+
+**Séries**
+- « Reprendre une série », sur l'accueil, annonce le même épisode que la fiche de la série, et la
+  fiche s'ouvre sur la version que tu étais en train de regarder.
+- Quand une série existe en VOST et en version française ou MULTI (c'est souvent le cas des
+  mangas), elle s'ouvre sur la version française plutôt que sur la VOST.
+
+**Lecteur (Android TV et téléphone)**
+- La piste audio que tu choisis est bien celle que tu entends, et l'audiodescription n'est plus
+  prise d'office au démarrage d'un film ou d'un épisode.
+- Le bouton Lecture/Pause montre toujours le bon état.
+
+**Premier lancement**
+- Nouvelle question : quelles langues garder dans les catalogues, d'après celles que propose ton
+  abonnement.
+- Sur **téléphone et tablette**, les mêmes questions qu'à la TV pour régler l'application à ton
+  goût ; les icônes des barres d'Android suivent le thème choisi.
+- Interface en anglais et en espagnol : les nouveaux écrans sont traduits.
+
+**Mises à jour**
+- Sur **Windows**, l'application sait maintenant installer elle-même ses prochaines versions.
+- Sur **Android**, si l'installation est encore refusée après l'autorisation, l'application te
+  propose de passer par Downloader.
+
+**Support**
+- « Contacter le support » : l'e-mail préparé indique le nom de ton appareil en clair et quelques
+  informations techniques (mémoire, réseau, erreurs récentes) qui nous aident à comprendre un
+  problème.
+
 ## 1.0.96 — 1er novembre 2026
 
 **Mises à jour**

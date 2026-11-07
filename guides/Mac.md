@@ -10,6 +10,13 @@
 > donc par précaution : il faut lui dire une fois que tu lui fais confiance (étape 3). C'est normal tant
 > que tu télécharges CroissantTV **depuis cette page et nulle part ailleurs**.
 
+> [!IMPORTANT]
+> **Ce qui a été essayé** (07/11/2026, version 1.0.99, iMac Intel sous **macOS 14.8.9**) : téléchargement,
+> installation par le `.dmg`, blocage à la première ouverture, puis ouverture par **Réglages Système ›
+> Confidentialité et sécurité › Ouvrir quand même** (étape 3). **Pas encore essayé :** macOS 15 et plus
+> récent, le raccourci « clic droit › Ouvrir » de macOS 14, un Mac à puce Apple (Rosetta). Si tu es dans
+> l'un de ces cas, dis-nous si les étapes correspondent à ce que tu vois.
+
 ---
 
 ## Étape 1 — Télécharger
@@ -38,9 +45,9 @@ Le fichier arrive dans le dossier **Téléchargements**.
    double-clique sur **CroissantTV**.
 2. Le Mac refuse de l'ouvrir et affiche un message :
    - **macOS 15 et plus récent :** « Apple n'a pas pu confirmer que “CroissantTV” ne contenait pas de
-     logiciel malveillant… ». Clique sur **Terminé** ;
+     logiciel malveillant… ». Clique sur **Terminé** *(pas encore essayé)* ;
    - **macOS 14 :** « “CroissantTV” ne peut pas être ouvert, car Apple ne peut pas vérifier s'il contient
-     des logiciels malveillants ». Clique sur **OK**.
+     des logiciels malveillants ». Clique sur **OK** *(texte exact pas encore relevé)*.
 
    Ne clique **pas** sur « Placer dans la corbeille ».
 3. Ouvre le menu **Apple** (la pomme, en haut à gauche de l'écran), puis **Réglages Système…**
@@ -56,6 +63,7 @@ Le fichier arrive dans le dossier **Téléchargements**.
 > [!TIP]
 > **Sur macOS 14 Sonoma**, il existe un raccourci : dans **Applications**, fais un clic droit (ou
 > <kbd>ctrl</kbd> + clic) sur **CroissantTV**, choisis **Ouvrir**, puis **Ouvrir** dans la fenêtre qui s'affiche.
+> *(Pas encore essayé avec CroissantTV : les Réglages Système, eux, ont marché sur macOS 14.)*
 
 **Mac à puce Apple :** à la toute première ouverture, le Mac peut proposer d'**installer Rosetta**. Clique sur
 **Installer** et accepte : c'est un composant d'Apple, gratuit, dont CroissantTV a besoin pendant la bêta. Il
@@ -113,7 +121,7 @@ refais l'**étape 3**.
 | Ce que tu vois | Ce qu'il faut faire |
 |---|---|
 | Pas de bouton **Ouvrir quand même** dans **Confidentialité et sécurité** | Il n'apparaît qu'**après** une tentative d'ouverture, et pendant environ une heure. Refais le point 1 de l'étape 3, puis retourne dans les Réglages. |
-| « “CroissantTV” est endommagé et ne peut pas être ouvert » | Mets le fichier téléchargé à la corbeille et télécharge-le de nouveau **depuis cette page**. Si le message revient, écris-nous avec ta version de macOS. |
+| « “CroissantTV” est endommagé et ne peut pas être ouvert » | Télécharge-le d'abord de nouveau **depuis cette page**. Si le message revient : ouvre **Terminal** (Applications › Utilitaires), colle `xattr -dr com.apple.quarantine /Applications/CroissantTV.app`, appuie sur <kbd>↩</kbd>, puis rouvre CroissantTV. Cette commande retire le marquage « téléchargé d'Internet ». *(Commande essayée : elle retire bien le marquage et CroissantTV s'ouvre ensuite. Le message « endommagé » lui-même n'a pas été reproduit.)* |
 | « Vous ne pouvez pas utiliser cette version de l'application avec cette version de macOS » | CroissantTV demande **macOS 14 Sonoma** ou plus récent. Ta version est dans le menu **Apple › À propos de ce Mac**. |
 | Le Mac propose Rosetta, mais l'installation échoue | Vérifie la connexion à Internet, puis rouvre CroissantTV : la proposition revient. |
 | Une fenêtre « La lecture vidéo ne sera pas disponible » | Le moteur vidéo n'a pas pu démarrer. Note le message exact et écris-nous : le reste de l'application (réglages, catalogue, guide) fonctionne quand même. |

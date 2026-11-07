@@ -15,8 +15,9 @@
 
 **Pourquoi c'est plus long que sur les autres appareils ?** Une Apple TV n'installe **aucune** application
 non signée : il n'existe pas de fichier à télécharger puis ouvrir, comme sur un Mac ou une TV Android.
-L'application doit être **compilée sur ton Mac, puis signée avec ton propre identifiant Apple**. Un
-identifiant Apple gratuit suffit, avec ces limites fixées par Apple :
+Le kit contient l'application **déjà compilée** : ton Mac doit seulement la **signer avec ton propre
+identifiant Apple**, puis l'envoyer sur l'Apple TV. Un script le fait pour toi. Un identifiant Apple
+gratuit suffit, avec ces limites fixées par Apple :
 
 | Limite d'un identifiant Apple gratuit | Ce que ça veut dire pour toi |
 |---|---|
@@ -32,13 +33,14 @@ identifiant Apple gratuit suffit, avec ces limites fixées par Apple :
 - un **Mac** avec **Xcode** (gratuit, sur l'App Store, environ 10 Go) ;
 - un **identifiant Apple** (celui de ton iPhone convient, aucun abonnement n'est demandé) ;
 - une **Apple TV 4K ou HD** sur le **même réseau Wi-Fi** que le Mac ;
-- une connexion Internet : Xcode télécharge la bibliothèque de lecture vidéo à la première compilation.
+- une connexion Internet : Xcode demande à Apple ton profil de signature.
 
 ## Étape 1 — Télécharger le kit
 
 Télécharge **CroissantTV-Kit-AppleTV.zip** et double-clique dessus : un dossier
-**CroissantTV-Kit-AppleTV** s'ouvre. Il contient ce guide en PDF, le projet Xcode et le script
-`installer-appletv.sh`.
+**CroissantTV-Kit-AppleTV** s'ouvre. Il contient ce guide en PDF, l'application (dossier `app`), le
+script `installer-appletv.sh` et un petit projet **Signature** : une application vide qui sert seulement
+à obtenir ton profil de signature, elle n'est jamais installée.
 
 ## Étape 2 — Ajouter ton identifiant Apple dans Xcode *(pas encore essayé)*
 
@@ -69,21 +71,15 @@ Télécharge **CroissantTV-Kit-AppleTV.zip** et double-clique dessus : un dossie
 
 1. Dans le Terminal, va dans le dossier du kit. Tape `cd ` (avec l'espace), fais glisser le dossier
    **CroissantTV-Kit-AppleTV** dans la fenêtre du Terminal, puis appuie sur <kbd>Entrée</kbd>.
-2. Lance le script avec ton Team ID :
-
-   ```
-   bash installer-appletv.sh TONTEAMID
-   ```
-
-   La première compilation prend plusieurs minutes. À la fin, le script affiche la liste des Apple TV
-   appairées *(pas encore essayé)*.
-3. Relance-le en ajoutant le nom de ton Apple TV, tel qu'il apparaît dans cette liste :
+2. Lance le script avec ton Team ID et le nom de ton Apple TV, tel qu'il apparaît dans la fenêtre
+   **Devices and Simulators** de l'étape 3 (entre guillemets) :
 
    ```
    bash installer-appletv.sh TONTEAMID "Apple TV du salon"
    ```
 
-   CroissantTV s'installe et s'ouvre sur la TV *(pas encore essayé)*.
+   Le script crée ton profil de signature (**1/3**), signe CroissantTV (**2/3**), puis l'installe et
+   l'ouvre sur la TV (**3/3**) *(pas encore essayé)*.
 
 **Si le script affiche :**
 
@@ -91,19 +87,25 @@ Télécharge **CroissantTV-Kit-AppleTV.zip** et double-clique dessus : un dossie
 |---|---|
 | « Xcode introuvable » | Xcode n'est pas installé, ou le Mac ne le trouve pas : tape la commande `sudo xcode-select -s …` que le script affiche (avec le chemin de ton Xcode s'il n'est pas dans Applications), puis ton mot de passe |
 | « No Accounts » ou « No profiles for… » | L'identifiant Apple n'est pas encore ajouté dans Xcode : refais l'étape 2 |
+| « Unable to find a device matching the provided destination » | Le nom de l'Apple TV n'est pas exactement celui de la fenêtre Devices and Simulators, ou elle n'est pas allumée |
+| « Profil non créé » | Fais-le une fois dans Xcode (voir ci-dessous), puis relance le script |
+| « devicectl n'a pas pu installer » | Installe à la main (voir ci-dessous) |
 
-**Si le script n'arrive pas à installer :** double-clique sur **CroissantTV.xcodeproj** (si le Mac
-prévient que le projet vient d'Internet, confirme l'ouverture). Dans Xcode, clique
-sur **CroissantTV** en haut de la colonne de gauche, onglet **Signing & Capabilities** : choisis ton équipe
-**Personal Team** dans **Team**, et remplace le **Bundle Identifier** par
-`com.croissanttv.app.` suivi de ton Team ID en minuscules. En haut de la fenêtre, choisis ton Apple TV comme
-destination, puis menu **Product › Run** *(pas encore essayé)*.
+**Créer le profil dans Xcode** *(pas encore essayé)* : double-clique sur **Signature.xcodeproj**, dans le
+dossier **Signature** du kit (si le Mac prévient que le projet vient d'Internet, confirme l'ouverture).
+Clique sur **Signature** en haut de la colonne de gauche, onglet **Signing & Capabilities** : choisis ton
+équipe **Personal Team** dans **Team**, et remplace le **Bundle Identifier** par `com.croissanttv.app.`
+suivi de ton Team ID en minuscules (le script l'affiche à l'étape 1/3). En haut de la fenêtre, choisis ton
+Apple TV comme destination, puis menu **Product › Build**. Relance ensuite le script.
+
+**Installer à la main** *(pas encore essayé)* : dans Xcode, **Window › Devices and Simulators**, clique
+sur l'Apple TV, puis sur **+** sous **Installed Apps**, et choisis `CroissantTV.app` dans le dossier
+`signature-build` du kit (le script l'y a signée).
 
 ## Étape 5 — Chaque semaine
 
 Au bout de 7 jours, CroissantTV ne s'ouvre plus sur l'Apple TV : c'est la limite d'un identifiant Apple
-gratuit. Refais l'**étape 4** (l'Apple TV reste appairée, la compilation est plus rapide la deuxième
-fois). Ta playlist devrait rester enregistrée *(pas encore essayé)*.
+gratuit. Refais l'**étape 4** (l'Apple TV reste appairée). Ta playlist devrait rester enregistrée *(pas encore essayé)*.
 
 ## Utiliser CroissantTV sur l'Apple TV
 

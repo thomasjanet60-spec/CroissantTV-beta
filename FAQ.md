@@ -90,8 +90,9 @@ es responsable des sources que tu y ajoutes** : n'ajoute que des abonnements aux
 | Téléphone, tablette Android | Android 5 et plus récent | [Guide téléphone](guides/Telephone-tablette.md) |
 | Ordinateur | **Windows 10 ou 11** | [Guide Windows](guides/Windows.md) |
 | Mac | **macOS 14 Sonoma** et plus récent | [Guide Mac](guides/Mac.md) |
+| Apple TV (prototype : le direct seulement) | **tvOS 17** et plus récent, installée depuis un Mac avec Xcode | [Guide Apple TV](guides/Apple-TV.md) |
 
-**Bientôt :** Apple TV. **Pas encore :** iPhone et iPad (en préparation).
+**Pas encore :** iPhone et iPad (en préparation).
 **Non compatibles :** les TV sous d'autres systèmes (VIDAA, Titan OS, Roku…). Les décodeurs des opérateurs
 (Freebox, Livebox, Bbox, SFR…) ne fonctionnent que s'ils sont sous Android TV **et** acceptent les
 applications hors magasin, ce que beaucoup refusent.

@@ -32,7 +32,7 @@ gratuit suffit, avec ces limites fixées par Apple :
 
 - un **Mac** avec **Xcode** (gratuit, sur l'App Store, environ 10 Go) ;
 - un **identifiant Apple** (celui de ton iPhone convient, aucun abonnement n'est demandé) ;
-- une **Apple TV 4K ou HD** sur le **même réseau Wi-Fi** que le Mac ;
+- une **Apple TV 4K ou HD** à jour (**tvOS 17** ou plus récent), sur le **même réseau Wi-Fi** que le Mac ;
 - une connexion Internet : Xcode demande à Apple ton profil de signature.
 
 ## Étape 1 — Télécharger le kit

@@ -22,6 +22,13 @@ télécharger sont sur la [page de la dernière version](https://github.com/thom
 - Défilement à la molette plus naturel.
 - Lecture plus stable sur Windows.
 
+**Mac et Apple TV**
+- Première version **Mac** (macOS 14 et plus récent) : [guide Mac](guides/Mac.md). La correction de la
+  synchronisation multi-appareil n'y est pas encore : elle arrivera sur Mac dans la prochaine version.
+- **Prototype Apple TV** (le direct seulement), à installer depuis un Mac avec Xcode :
+  [guide Apple TV](guides/Apple-TV.md). Il n'a pas encore été essayé sur une vraie Apple TV : dis-nous si
+  l'installation fonctionne chez toi.
+
 ## 1.0.98 — 2 novembre 2026
 
 Comprend aussi les nouveautés de la 1.0.97, qui n'a pas été publiée.

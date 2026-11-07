@@ -26,12 +26,13 @@ chaque membre de la famille.
 | **Téléphone ou tablette Android** | [CroissantTV.apk](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV.apk), sur le téléphone | [Installer sur téléphone](guides/Telephone-tablette.md) |
 | **Ordinateur Windows** 10 ou 11 | [Kit Windows](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-Kit-Windows.zip) | [Installer sur Windows](guides/Windows.md) |
 | **Mac**, macOS 14 Sonoma ou plus récent | [CroissantTV-macOS.dmg](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-macOS.dmg), ou le [Kit Mac](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-Kit-Mac.zip) | [Installer sur Mac](guides/Mac.md) |
+| **Apple TV** 4K ou HD, tvOS 17 ou plus récent — *prototype : le direct seulement* | [Kit Apple TV](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/CroissantTV-Kit-AppleTV.zip), sur un **Mac avec Xcode** | [Installer sur Apple TV](guides/Apple-TV.md) |
 
 Chaque **kit** est un fichier `.zip` qui contient l'application **et son guide en PDF**, à suivre étape par
 étape (celui de LG contient aussi le logiciel à installer sur l'ordinateur). Les liens donnent toujours la
 dernière version.
 
-**Apple TV :** bientôt. **iPhone et iPad :** pas encore disponibles (en préparation).
+**iPhone et iPad :** pas encore disponibles (en préparation).
 
 Tous les guides et la FAQ dans un seul PDF, à imprimer si tu préfères le papier :
 **[Guide-installation-CroissantTV-beta.pdf](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/Guide-installation-CroissantTV-beta.pdf)**

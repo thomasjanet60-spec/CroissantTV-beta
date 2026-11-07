@@ -3,6 +3,25 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.99 — 7 novembre 2026
+
+**Synchronisation**
+- Bug de synchronisation multi-appareil corrigé.
+
+**Guide et rappels**
+- Améliorations du guide des programmes et des rappels.
+
+**Lecture**
+- Moins de refus du fournisseur quand plusieurs écrans demandent des données en même temps.
+- Améliorations de la recherche dans le lecteur.
+
+**Catalogue**
+- Les versions d'un même film ou d'une même série sont mieux regroupées.
+
+**Navigation et Windows**
+- Défilement à la molette plus naturel.
+- Lecture plus stable sur Windows.
+
 ## 1.0.98 — 2 novembre 2026
 
 Comprend aussi les nouveautés de la 1.0.97, qui n'a pas été publiée.

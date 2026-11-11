@@ -3,6 +3,31 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.100 — 11 novembre 2026
+
+**TV en direct**
+- Nouvelle grille des catégories de chaînes : depuis le guide, **Retour** l'ouvre en grand, en
+  colonnes, avec le nombre de chaînes de chaque catégorie. « ← Guide » (ou Gauche depuis la
+  première colonne) rend le guide.
+- « Changer de source » se trouve maintenant dans cette grille. La barre au-dessus du guide ne
+  garde que « Ce soir », « Maintenant », la taille du guide et celle du texte.
+
+**Lecture**
+- Bouton **AUDIO** dans les commandes du lecteur, pour choisir la langue de la piste.
+- « Reprendre au début » fonctionne aussi après un retour en arrière rapide dans le direct.
+
+**Interface**
+- La fenêtre Premium tient entièrement à l'écran, boutons compris.
+- Mon Croissant : Bas depuis un rappel descend dans la liste au lieu de remonter au menu.
+- Les titres qui portent une année entre parenthèses la gardent (« Nosferatu (1922) »).
+- La langue choisie au premier lancement (anglais, espagnol) est conservée aux lancements
+  suivants.
+- Traductions anglaises et espagnoles complétées (lecteur, sous-titres, réglages).
+
+**Mac et Apple TV**
+- Pas de nouvelle version cette fois : le Mac et le prototype Apple TV restent en 1.0.99, leurs
+  fichiers sont toujours sur la page de la dernière version.
+
 ## 1.0.99 — 7 novembre 2026
 
 **Synchronisation**

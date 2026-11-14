@@ -3,6 +3,29 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.101 — 14 novembre 2026
+
+**TV en direct**
+- Un seul bouton **Zoom** au-dessus du guide réunit la taille du guide et celle du texte.
+
+**Films et Séries**
+- **Playlists** (Premium) : en plus de Ma liste, jusqu'à 10 playlists par profil, nommées comme tu
+  veux et synchronisées avec ton compte. Sur la fiche d'un titre, « Ma liste » propose Ma liste, tes
+  playlists et « Nouvelle playlist… » ; la touche **Jaune** des grilles aussi, dès qu'une playlist
+  existe. Tu les retrouves et les gères (renommer, supprimer) dans **Mon Croissant**.
+- « Source » quitte la barre au-dessus de la grille : il est dans le volet des catégories, à droite
+  du titre, au-dessus de « Rechercher ».
+- Un seul bouton **Zoom** remplace « Grille » et « Texte ».
+- Le nombre de rayons n'est plus affiché, pour laisser plus de place.
+
+**Interface**
+- Derniers textes traduits en anglais et en espagnol (exemple des polices du premier lancement,
+  taille des enregistrements).
+
+**Mac et Apple TV**
+- Pas de nouvelle version cette fois : le Mac et le prototype Apple TV restent en 1.0.99, leurs
+  fichiers sont toujours sur la page de la dernière version.
+
 ## 1.0.100 — 11 novembre 2026
 
 **TV en direct**

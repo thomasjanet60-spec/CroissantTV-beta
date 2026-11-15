@@ -101,7 +101,7 @@ Pour les TV et boîtiers qui ont un port USB (pas les clés Fire TV). Pratique s
 
 ## Mettre à jour CroissantTV
 
-CroissantTV propose lui-même la nouvelle version : une bulle l'annonce, et **Paramètres › Système & à propos ›
+CroissantTV propose lui-même la nouvelle version : une bulle l'annonce, et **Paramètres › Application ›
 Rechercher une mise à jour** l'installe. Avec le réglage **Mises à jour › Installer toute seule**, elle
 s'installe quand tu quittes l'application. Android te demande de confirmer : accepte. **Tes sources, profils et
 réglages sont conservés.**

@@ -195,7 +195,7 @@ Tu pourras ajouter d'autres abonnements plus tard depuis les **Paramètres**.
 ### Taper une adresse à la télécommande, c'est long : une astuce ?
 
 - **Ton téléphone comme clavier :** les applications **Google TV** (Android TV et Google TV) et **Amazon Fire TV** transforment ton téléphone en télécommande avec un vrai clavier. Pour LG et Samsung, les applications **LG ThinQ** et **SmartThings** servent aussi de télécommande ; selon les modèles, elles permettent de taper du texte.
-- **Depuis un autre appareil déjà configuré :** si CroissantTV marche déjà sur ton téléphone ou une autre TV, « **Envoyer mes sources complètes** » (dans les Paramètres) affiche un code à saisir sur le nouvel appareil, qui reçoit tout, identifiants compris. Il faut un compte CroissantTV sur les deux appareils et le Premium (l'essai compte).
+- **Depuis un autre appareil déjà configuré :** si CroissantTV marche déjà sur ton téléphone ou une autre TV, « **Envoyer mes sources complètes** » (dans les Paramètres, après avoir mis **Réglages avancés : Affichés**, l'interrupteur en bas de la liste) affiche un code à saisir sur le nouvel appareil, qui reçoit tout, identifiants compris. Il faut un compte CroissantTV sur les deux appareils et le Premium (l'essai compte).
 
 ### À quoi sert la carte « Mon fournisseur » ?
 
@@ -248,13 +248,13 @@ celle qui est affichée.
 
 Les nouvelles versions de la bêta sont publiées sur
 **[la page de la bêta](https://github.com/thomasjanet60-spec/CroissantTV-beta)**, avec la liste de ce qui
-change. Le numéro de ta version est affiché dans les **Paramètres** (par exemple `1.0.102`).
+change. Le numéro de ta version est affiché dans les **Paramètres** (par exemple `1.0.103`).
 
 Si tu as un compte GitHub, tu peux être prévenu par e-mail : bouton **Watch** de la page, puis **Custom › Releases**.
 
 > [!NOTE]
 > Sur **Android TV** et sur **téléphone Android**, l'application propose elle-même la nouvelle version, au plus
-> une fois par jour. Dans **Paramètres › Système & à propos › Mises à jour**, choisis **Me prévenir** (une bulle
+> une fois par jour. Dans **Paramètres › Application › Mises à jour**, choisis **Me prévenir** (une bulle
 > l'annonce, tu l'installes depuis ce même écran) ou **Installer toute seule** (à la sortie de l'application,
 > jamais pendant la lecture). Android te demande toujours de confirmer l'installation.
 >
@@ -282,8 +282,8 @@ Pour qu'on puisse t'aider vite, indique toujours :
 2. ce que tu faisais, et ce que tu as vu (le message exact s'il y en a un) ;
 3. si possible, une **photo de l'écran**.
 
-Pour un problème de lecture, « **Envoyer le journal** », dans les Paramètres, nous transmet le détail technique
-(sans tes identifiants).
+Pour un problème de lecture, « **Envoyer le journal** », dans les Paramètres (mets d'abord **Réglages avancés : Affichés**, l'interrupteur
+en bas de la liste, puis ouvre **Application**), nous transmet le détail technique (sans tes identifiants).
 
 Les idées et les remarques sont aussi les bienvenues : c'est à ça que sert une bêta !
 

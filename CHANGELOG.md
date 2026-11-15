@@ -3,6 +3,57 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.103 — 15 novembre 2026
+
+Cette version réunit tous les travaux récents : elle sort en même temps pour LG, Samsung, Android,
+Android TV et Windows.
+
+**Paramètres**
+- Les Paramètres sont plus faciles à parcourir. Par défaut, tu ne vois que l'essentiel : un
+  interrupteur « Réglages avancés » en bas de la liste affiche tout le reste. Ce choix est propre à
+  chaque appareil.
+- Les rubriques ont de nouveaux noms : **Profils et comptes**, **Chaînes et guide TV**, **Contrôle
+  parental**, **Dépannage** et **Application**. Plusieurs lignes ont aussi un nom plus clair.
+- Les réglages sont rangés là où on les attend : « Au démarrage » avec les profils, le tri et les
+  chaînes cachées avec les chaînes, les connexions de l'abonnement avec les sources. Les réglages qui
+  apparaissaient deux fois n'existent plus qu'une seule fois.
+- Trois réglages en remplacent six : l'horloge du lecteur (masquée, heure, ou heure et date), les
+  infos techniques (masquées, étiquettes ou résolution) et l'épisode suivant (jamais, à la fin, ou
+  dès le générique de fin). Toutes les tailles sont réunies sur un seul écran, tous les réglages des
+  sous-titres sur un autre.
+- La taille des affiches se règle maintenant avec le Zoom des grilles ; deux lignes qui ne servaient
+  plus à rien ont disparu.
+- Ce qui dépend de l'appareil (par exemple l'affichage des réglages avancés) ne se recopie plus sur
+  tes autres appareils.
+- « Effacer toutes les données » demande d'abord confirmation, remet l'appareil à zéro et le détache
+  de ton compte, sans rien effacer sur le compte. Supprimer une source demande aussi confirmation.
+- Corrigé : « Marquer les animes comme vus » (MyAnimeList) s'affichait activé alors que rien n'était
+  envoyé ; la bascule jour / nuit respecte le thème de ton profil ; le tri des chaînes reste en place
+  après une mise à jour du catalogue ; les lignes qui n'ont aucun effet sur ton appareil sont grisées.
+- Téléphone : les écrans des Paramètres suivent les mêmes changements.
+
+**Reprendre et synchronisation**
+- « Reprendre » : une série reste dans la rangée tant que son dernier épisode n'est pas vu en entier,
+  et revient quand tu la relances. Un film déjà vu que tu relances puis que tu coupes revient aussi ;
+  si tu en as fini une autre version depuis, il ne revient plus.
+- Ton compte recopie davantage de choses d'un appareil à l'autre (par exemple ta dernière chaîne).
+- « Effacer toutes les données » sur un appareil relié à ton compte te prévient, puis détache
+  l'appareil : ton compte reste intact.
+
+**Samsung**
+- La lecture passe d'abord par le lecteur de la télévision elle-même, et non plus par celui de
+  l'application : l'image arrive plus vite.
+- L'animation d'ouverture, les codes QR et la lecture par les autres moteurs étaient bloqués par une
+  règle de sécurité de la télévision : c'est corrigé.
+- Quand ton fournisseur refuse une chaîne, le message s'affiche en quelques secondes au lieu d'une
+  minute, et l'application ne s'acharne plus sur le même lien.
+- Si l'application se coupe encore toute seule, dis-nous sur quelle chaîne et à quelle heure : ça
+  nous aide à retrouver la cause.
+
+**Mac et Apple TV**
+- Pas de nouvelle version cette fois : le Mac et le prototype Apple TV restent en 1.0.99. Leurs
+  fichiers sont toujours sur la page de la dernière version.
+
 ## 1.0.102 — 15 novembre 2026
 
 **Démarrage**

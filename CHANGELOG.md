@@ -3,6 +3,55 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.102 — 15 novembre 2026
+
+**Démarrage**
+- L'application s'ouvre plus vite : elle reprend tout de suite ce qu'elle avait gardé (chaînes, films,
+  séries, guide) et se met à jour derrière, sans te faire attendre. Si ton fournisseur est en panne ou
+  lent, tu retrouves ta liste de chaînes, tes films et tes séries au lieu d'un écran vide.
+- Le guide des programmes ne se vide plus quand il se met à jour. Application ouverte longtemps (une
+  nuit, par exemple), il se renouvelle tout seul.
+- L'Accueil garde ses rangées de films et de séries quand le guide arrive, et Sport se dessine plus
+  légèrement, y compris juste après le démarrage.
+
+**Sport**
+- Quand les scores en direct ne répondent pas, Sport affiche « Impossible d'actualiser » au lieu de
+  « Rien ne se joue en ce moment ».
+
+**Sources**
+- Portail Stalker : après des échecs répétés, l'application attend moins longtemps avant de
+  réessayer (de 20 secondes à 15 minutes), et « Recharger la source », « Enregistrer et se connecter »
+  ou la modification d'une source relancent tout de suite.
+- Adresse d'une source (serveur, portail, M3U) : quand le champ est prérempli avec « http:// », le
+  curseur se place à la fin et ce que tu tapes ne passe plus devant.
+- « Qui regarde ? » : si tu crées ou retires un profil depuis un autre appareil de ton compte, l'écran
+  déjà ouvert se met à jour.
+
+**Sous-titres et Premium**
+- La recherche de sous-titres passe uniquement par les serveurs de CroissantTV : plus aucune clé de
+  service n'est livrée dans l'application.
+- Premium : sur un appareil qui n'est pas relié à un compte, seule la période de découverte de 48 h
+  ouvre les fonctions Premium.
+
+**Android, Android TV et téléphone**
+- L'application n'est plus « débogable » : son inspecteur n'est plus accessible de l'extérieur.
+  Elle s'installe par-dessus la version précédente, comme d'habitude.
+- Téléphone : playlists des films et séries depuis l'interface du téléphone ; « Passer le générique »
+  revient dans la barre du lecteur quand la pastille a disparu ; la mise à jour du catalogue en
+  arrière-plan attend que ton doigt soit levé et que les panneaux soient fermés.
+
+**Windows**
+- La mise à jour intégrée échouait avec « La mise à jour a échoué » (certificat du site refusé) :
+  c'est corrigé. Pour en profiter, installe cette version par-dessus la tienne, une dernière fois, de
+  la façon habituelle.
+
+**Interface**
+- « Verrouiller (parental) » et plusieurs infobulles s'affichent maintenant dans la langue choisie.
+
+**Samsung, Mac et Apple TV**
+- Pas de nouvelle version cette fois : le Samsung reste en 1.0.101, le Mac et le prototype Apple TV en
+  1.0.99. Leurs fichiers sont toujours sur la page de la dernière version.
+
 ## 1.0.101 — 14 novembre 2026
 
 **TV en direct**

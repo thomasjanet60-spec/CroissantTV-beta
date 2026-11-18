@@ -3,6 +3,30 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.107 — 18 novembre 2026
+
+Cette version sort en même temps pour LG, Samsung, Android, Android TV et Windows.
+
+**Samsung**
+- Corrigé : la rangée **« Reprendre »** restait vide, car la position des films et des épisodes
+  n'était pas enregistrée sur certaines TV Samsung.
+- L'aperçu de la chaîne dans le Guide TV, parfois mal cadré ou à moitié noir, est recadré à chaque
+  changement de taille. Nous n'avons pas pu l'essayer sur une vraie TV Samsung : si le problème
+  reste, passe par « **Contacter le support** » dans les Paramètres, le journal joint dit
+  maintenant ce que la TV a reçu.
+
+**Aide**
+- « **Contacter le support** » joint maintenant ton journal tout seul : son code est dans le sujet
+  de l'e-mail, tu n'as rien à envoyer en plus.
+
+**Séries**
+- Quand tu passes à l'épisode suivant pendant le générique de fin, l'application s'en sert pour
+  proposer plus tôt l'épisode suivant, sur cette série, à tous les utilisateurs.
+
+**Mac et Apple TV**
+- Pas de nouvelle version cette fois : le Mac et le prototype Apple TV restent en 1.0.99. Leurs
+  fichiers sont toujours sur la page de la dernière version.
+
 ## 1.0.106 — 18 novembre 2026
 
 Cette version sort en même temps pour LG, Samsung, Android, Android TV et Windows. Elle réunit

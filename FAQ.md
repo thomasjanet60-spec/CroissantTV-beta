@@ -248,7 +248,7 @@ celle qui est affichée.
 
 Les nouvelles versions de la bêta sont publiées sur
 **[la page de la bêta](https://github.com/thomasjanet60-spec/CroissantTV-beta)**, avec la liste de ce qui
-change. Le numéro de ta version est affiché dans les **Paramètres** (par exemple `1.0.106`).
+change. Le numéro de ta version est affiché dans les **Paramètres** (par exemple `1.0.107`).
 
 Si tu as un compte GitHub, tu peux être prévenu par e-mail : bouton **Watch** de la page, puis **Custom › Releases**.
 
@@ -273,7 +273,7 @@ profils, favoris et réglages restent en place. La façon de faire est expliqué
 
 ### Comment signaler un problème ?
 
-- **Depuis l'application :** dans les **Paramètres**, « **Contacter le support** » affiche un QR code. Scanne-le avec ton téléphone : il ouvre un e-mail déjà adressé au support, avec les informations techniques de l'appareil. Il ne reste qu'à décrire le problème.
+- **Depuis l'application :** dans les **Paramètres**, « **Contacter le support** » affiche un QR code. Scanne-le avec ton téléphone : il ouvre un e-mail déjà adressé au support, avec les informations techniques de l'appareil et son journal joint. Il ne reste qu'à décrire le problème.
 - **Par e-mail :** **support@croissanttv.fr**.
 
 Pour qu'on puisse t'aider vite, indique toujours :

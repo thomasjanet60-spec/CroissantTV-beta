@@ -3,6 +3,54 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.106 — 18 novembre 2026
+
+Cette version sort en même temps pour LG, Samsung, Android, Android TV et Windows. Elle réunit
+tout ce qui a changé depuis la 1.0.103 : sur Android, une partie est déjà arrivée par la mise à
+jour automatique.
+
+**Tendances**
+- Nouvel écran **Tendances** (la flamme de l'accueil) : les films et les séries du moment selon
+  Trakt, pris uniquement dans ton catalogue. Films et séries sont séparés, avec leur rang et un
+  choix par genre ; OK ouvre un volet avec la bande-annonce.
+- Dans la fiche d'un film ou d'une série, une rangée de **titres similaires**, eux aussi pris dans
+  ton catalogue.
+- La **bande-annonce** se regarde dans l'application, sans la quitter (« Regarder ici ») ; le code QR
+  pour la voir sur ton téléphone reste proposé.
+
+**Films, séries et lecteur**
+- **Recherche** directement dans les onglets Films et Séries ; la barre du haut se replie quand tu
+  descends dans la grille.
+- Nouveau bouton **« Passer le résumé »** (ou « Passer l'aperçu ») dans le lecteur. Il ne part
+  jamais tout seul.
+- L'épisode suivant démarre plus vite après le générique.
+- Les chapitres de certains films ne sont plus proposés par erreur comme sous-titres.
+
+**Guide TV et accueil**
+- Le Guide TV affiche la qualité des chaînes (HD, FHD, 4K…) en pastilles, le nom de la chaîne en
+  entier, une ligne sélectionnée bien visible, et prend la couleur de ton thème.
+- Tes favoris n'entrent plus d'eux-mêmes dans les rangées de l'accueil ; les séparateurs de
+  catégorie de certains fournisseurs ne finissent plus dans tes favoris.
+
+**Sport**
+- Le tennis est mieux suivi ; les affiches ne montrent plus de rencontres déjà jouées ; chaque sport
+  a ses propres libellés ; la chaîne proposée pour un match est d'abord celle de ta langue.
+
+**Ton compte et la synchronisation**
+- Entre tes appareils reliés au même compte, un changement arrive en une seconde environ.
+- « Mon compte » : les textes sont plus grands et se parcourent à la télécommande. « Envoyer mes
+  listes » te dit pourquoi le site refuse, s'il refuse.
+- Corrigé : la bascule jour / nuit restée active remplaçait le thème de ton profil.
+
+**Samsung**
+- Corrigé : sur certaines TV Samsung, l'application pouvait se fermer toute seule une dizaine de
+  secondes après l'ouverture de l'accueil. Nous pensons avoir trouvé la cause, sans avoir pu
+  l'essayer sur une vraie TV : dis-nous si ça t'arrive encore, et sur quel écran.
+
+**Mac et Apple TV**
+- Pas de nouvelle version cette fois : le Mac et le prototype Apple TV restent en 1.0.99. Leurs
+  fichiers sont toujours sur la page de la dernière version.
+
 ## 1.0.103 — 15 novembre 2026
 
 Cette version réunit tous les travaux récents : elle sort en même temps pour LG, Samsung, Android,

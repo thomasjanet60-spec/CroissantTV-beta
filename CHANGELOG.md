@@ -3,6 +3,57 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.108 — 19 novembre 2026
+
+Cette version sort en même temps pour LG, Samsung, Android, Android TV et Windows. Elle refait
+une bonne partie de l'apparence de l'application.
+
+**Films et séries**
+- Les pastilles des affiches sont redessinées et suivent la taille des affiches ; la 4K est en
+  doré. Un **œil** montre ce que tu as commencé (gris) ou déjà vu (jaune), un **cœur** les titres
+  de tes listes et de tes favoris.
+- Le bouton de catégorie au-dessus des grilles est plus simple, et le panneau d'information à
+  droite des grilles s'arrête maintenant aux acteurs.
+- Une langue masquée dans les réglages masque aussi ses catégories.
+- Quand une série existe en plusieurs versions, l'application ouvre en priorité celle qui a le
+  plus d'épisodes dans ta langue, et reconnaît mieux la version originale.
+- « Versions affichées », « Noms des films & séries » et le masquage d'une langue du catalogue
+  font maintenant partie de **Premium**. « Version à ouvrir en priorité » et « Qualité maximale »
+  restent gratuites.
+
+**Accueil**
+- Les cartes « En ce moment sur tes chaînes » montrent la qualité (HD, FHD, 4K…) quand le nom de
+  la chaîne l'indique.
+- Le défilement de l'Accueil et des grilles est plus fluide sur les TV LG.
+- Les **Tendances** restent affichées quand Trakt ne répond pas.
+
+**Guide TV**
+- « Maintenant » devient « **Revenir au présent** », affiché seulement quand tu t'es éloigné du
+  direct.
+- Le bouton zoom fait tourner trois tailles, **Petit, Moyen et Grand**, texte compris. Ton ancien
+  réglage est repris au plus proche.
+- « Aujourd'hui » devient « **Aller à** » : après la date, tape l'heure avec les chiffres de la
+  télécommande.
+
+**Lecteur**
+- Le **guide pendant une chaîne** (bouton Guide) est refait : la catégorie en tête, ◄ ► pour en
+  changer, le logo de chaque chaîne, le programme en cours avec sa progression et le suivant.
+  Retour le ferme. Si tu choisis une chaîne d'une autre catégorie, ▲ ▼ zappent ensuite dans
+  celle-ci.
+- Boutons **Audio** et **Sous-titres** en pictogrammes, plus de loupe dans les lecteurs de films et
+  de séries, pas de « Précédent » sur le premier épisode d'une série. Le nom de la source ne
+  s'affiche plus que sur les chaînes.
+- Séries : une seule proposition « Passer le résumé », et le générique de début est mieux reconnu.
+
+**Windows**
+- Le curseur devient une main sur tout ce qui se clique, la barre du bas parle d'« Entrée » et de
+  la touche ⌫, et chaque fenêtre a sa petite croix de fermeture.
+- Un bouton de **volume** dans le lecteur, et un bouton « Catégories » au-dessus du guide TV.
+
+**Mac et Apple TV**
+- Pas de nouvelle version cette fois : le Mac et le prototype Apple TV restent en 1.0.99. Leurs
+  fichiers sont toujours sur la page de la dernière version.
+
 ## 1.0.107 — 18 novembre 2026
 
 Cette version sort en même temps pour LG, Samsung, Android, Android TV et Windows.

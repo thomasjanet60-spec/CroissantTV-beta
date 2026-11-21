@@ -51,7 +51,10 @@ CroissantTV a été pensé pour la télécommande ; sur ordinateur, le clavier l
 | Flèches | <kbd>←</kbd> <kbd>↑</kbd> <kbd>→</kbd> <kbd>↓</kbd> |
 | OK | <kbd>Entrée</kbd> |
 | Retour | <kbd>Échap</kbd> ou <kbd>Retour arrière</kbd> |
-| Touches rouge, verte, jaune, bleue | <kbd>F1</kbd>, <kbd>F2</kbd>, <kbd>F3</kbd>, <kbd>F4</kbd> |
+| Touche rouge (rechercher) | <kbd>F3</kbd> |
+| Touche verte (ajouter à ta liste ou à tes favoris) | <kbd>F2</kbd> |
+| Touche jaune (options de l'écran) | <kbd>F9</kbd> |
+| Touche bleue (aide) | <kbd>F1</kbd> |
 | Plein écran | <kbd>F11</kbd> |
 
 La souris marche aussi : un clic pour choisir.

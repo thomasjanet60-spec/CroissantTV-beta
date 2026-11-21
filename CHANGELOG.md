@@ -3,6 +3,38 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.110 — 21 novembre 2026
+
+Cette version sort en même temps pour LG, Samsung, Android, Android TV et Windows. Elle simplifie
+les touches de couleur et rend de la place à l'écran.
+
+**Touches de couleur : le même sens partout**
+- **Rouge** : rechercher. **Vert** : ajouter le titre ou la chaîne à ta liste ou à tes favoris,
+  ou l'en retirer. **Jaune** : les options de l'écran (zoom, tri, réorganiser, sources,
+  contacter le support…). **Bleu** : l'aide, qui rappelle ce que font les touches là où tu es.
+- Sur Windows : <kbd>F3</kbd> rouge, <kbd>F2</kbd> vert, <kbd>F9</kbd> jaune, <kbd>F1</kbd> bleu.
+
+**Plus de place à l'écran**
+- La bande des raccourcis en bas de l'écran disparaît : les affiches des films et des séries ne
+  sont plus coupées, le guide TV et les tableaux du Sport s'agrandissent.
+
+**Paramètres**
+- « Dépannage » s'appelle désormais **Réseau**.
+- Nouvelle ligne **Fermer l'application**, sous « Réglages avancés ».
+- Sur certains téléviseurs, l'ouverture des Paramètres pouvait clignoter longtemps pendant que le
+  guide TV se chargeait : ça ne devrait plus arriver.
+
+**Téléphone Android**
+- L'onglet Sport n'affiche plus « Erreur d'affichage : tr is not a function ».
+
+**Windows**
+- Si « Installer » la mise à jour échoue avec « native-tls: unable to find any user specified
+  roots… », installe une fois cette version à la main (`CroissantTV-Windows-Setup.exe`, par-dessus
+  l'ancienne) : les mises à jour suivantes passeront.
+
+**Mac et Apple TV** : pas de nouvelle version cette fois. Les fichiers proposés restent ceux de la
+1.0.99.
+
 ## 1.0.109 — 21 novembre 2026
 
 Cette version sort en même temps pour LG, Samsung, Android, Android TV et Windows. Elle retouche

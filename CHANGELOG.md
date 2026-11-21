@@ -3,6 +3,42 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.109 — 21 novembre 2026
+
+Cette version sort en même temps pour LG, Samsung, Android, Android TV et Windows. Elle retouche
+surtout les grilles de films et séries, les Tendances et le lecteur.
+
+**Films et séries**
+- Le panneau d'information à droite des grilles est redessiné : plus lisible, mieux rempli, avec
+  la catégorie, le titre, la note, l'année, la durée et les genres bien séparés. La carte « Au
+  hasard » change aussi.
+- Nouveau choix **Automatique** dans « Qualité des jaquettes » : la netteté des affiches suit
+  leur taille à l'écran. C'est le réglage d'une nouvelle installation ; si tu avais déjà choisi
+  « Réduites (fluide) », il reste.
+- L'œil passe en bas à gauche de l'affiche, et la 4K prend un dégradé jaune orangé.
+- Quand tu ajoutes un titre à une liste, le cœur apparaît tout de suite, sans changer de page.
+- Au retour d'une fiche, la sélection revient sur l'affiche d'où tu venais, et non sur « Mon accueil ».
+
+**Tendances**
+- Elles s'ouvrent aussitôt, avec la dernière sélection gardée, puis se mettent à jour quand
+  Trakt répond. Le rang est dans un coin de l'affiche, avec un filet or, argent et bronze pour
+  les trois premiers.
+
+**Guide TV et fiches**
+- Les cadres du guide et des fiches sont redessinés pour alléger l'affichage.
+
+**Lecteur**
+- Si le flux se coupe en plein épisode ou en plein replay, le lecteur reprend tout seul au même
+  endroit, après quelques secondes, au lieu d'afficher « Lecture impossible ».
+
+**Compte**
+- À l'appairage avec ton compte, l'appareil porte son vrai nom (par exemple « Philips
+  TPM191E · Android 12 ») au lieu de « CroissantTV — Android ».
+
+**Mac et Apple TV**
+- Pas de nouvelle version cette fois : le Mac et le prototype Apple TV restent en 1.0.99. Leurs
+  fichiers sont toujours sur la page de la dernière version.
+
 ## 1.0.108 — 19 novembre 2026
 
 Cette version sort en même temps pour LG, Samsung, Android, Android TV et Windows. Elle refait

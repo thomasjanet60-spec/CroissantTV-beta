@@ -3,6 +3,57 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.112 — 22 novembre 2026
+
+Cette version sort en même temps pour LG, Samsung, Android, Android TV et Windows. Elle
+réorganise l'accueil, la navigation à la télécommande et le lecteur. (La 1.0.111 n'a pas été
+publiée : tout ce qu'elle contenait est ici.)
+
+**Accueil et navigation**
+- En tête de l'Accueil, deux onglets : **Mon accueil** et **Tendances**.
+- La flèche **haut** remonte jusqu'à la barre des onglets depuis n'importe quel écran, et la
+  flèche **bas** te ramène là où tu étais.
+- **Retour** remonte pas à pas jusqu'à « Fermer CroissantTV ? » (réglage « Demander avant de
+  fermer l'application »).
+- Dans le Guide TV, la liste des chaînes boucle de la dernière à la première.
+- Les rangées apparaissent en fondu ; les cartes « En ce moment sur vos chaînes » sont plus
+  compactes et le nom de la chaîne tient sur deux lignes.
+
+**Aide**
+- Un bouton **? Aide** à côté de ton profil, au même endroit sur tous les onglets, et en haut des
+  Paramètres : il explique les touches de l'écran où tu es. La touche Bleue fait toujours la même
+  chose.
+
+**Lecteur**
+- **GUIDE** est le premier bouton de la rangée ; les boutons ▼ / ▲ disparaissent (les touches,
+  elles, changent toujours de chaîne).
+- **Rechercher la VOD** (la loupe) cherche le programme en cours dans tes films et séries. Un
+  résultat ouvre désormais la **fiche** du titre ; une série n'apparaît qu'une fois, plus épisode
+  par épisode.
+
+**Paramètres**
+- Dans les listes de catégories, une ligne **Tout décocher** (puis « Tout cocher »).
+- Les Options (touche Jaune) qui règlent une taille ou un thème restent ouvertes et montrent la
+  valeur choisie.
+- La fiche d'une source propose directement le **DNS** et le **proxy SOCKS5**.
+- « Qui regarde ? » : le crayon « Personnaliser » passe au-dessus de chaque profil.
+
+**Sport et Tendances**
+- La rangée des directs s'appelle **Événements diffusés**.
+- Le Sport et les Tendances s'affichent plus vite au démarrage.
+
+**Sources**
+- Quand le serveur de ton fournisseur refuse l'accès (identifiants, ligne coupée…), l'application
+  le dit clairement au lieu d'afficher « relais HTTP 404 », et ne réessaie plus en boucle.
+
+**Téléphone Android**
+- Même présentation que sur le téléviseur : cartes, rangées, lecteur (GUIDE en tête, loupe
+  « VOD »), fiche avec « Titres associés » et « Similaires » ; sur tablette, « Aller à » et
+  « Revenir au présent » dans le guide.
+
+**Mac et Apple TV** : pas de nouvelle version cette fois. Les fichiers proposés restent ceux de la
+1.0.99.
+
 ## 1.0.110 — 21 novembre 2026
 
 Cette version sort en même temps pour LG, Samsung, Android, Android TV et Windows. Elle simplifie

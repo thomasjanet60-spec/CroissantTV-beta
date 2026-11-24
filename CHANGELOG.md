@@ -3,6 +3,45 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.114 — 25 novembre 2026
+
+Cette version sort en même temps pour LG, Samsung, Android, Android TV et Windows. Elle soigne la
+lecture des films en 4K, les Tendances et Trakt. (La 1.0.113 n'a pas été publiée : tout ce
+qu'elle contenait est ici.)
+
+**Films et séries en 4K (LG et Samsung)**
+- Un film en 4K très lourd ne saute plus dans le vide quand la connexion faiblit : l'application
+  attend de reconstituer une réserve, puis reprend là où elle s'était arrêtée.
+- Chaque ouverture d'une version repart d'un compteur neuf : la lecture n'est plus coupée à tort.
+- Le **débit** de chaque version s'affiche dans la liste des versions, sur le bouton Version et
+  dans la fiche technique.
+- Quand la lecture échoue, le message dit mieux pourquoi.
+
+**Tendances et Trakt**
+- La rangée « Pourraient vous plaire » reste là même quand Trakt refuse un instant, et se
+  construit à partir de ce que tu regardes.
+- Trakt reçoit enfin les **épisodes** que tu as vus. Pour envoyer ce que tu avais déjà vu :
+  Paramètres › Trakt › **Envoyer mes vus et Ma liste vers Trakt**, une fois par appareil relié.
+
+**Paramètres**
+- « Sauvegarder votre configuration » et « Contacter le support » se font en étapes numérotées,
+  avec une bulle « comment scanner ». Le journal n'est plus dans les réglages : il part avec le
+  message au support.
+- Le bouton « ? Aide » est plus discret.
+
+**Affiches**
+- Quand le fournisseur n'a pas d'affiche, la carte montre le nom du titre au lieu d'un cadre vide.
+
+**Réseau (Windows)**
+- Résolution DNS : avis clair pour Quad9 (coupé en France) ; DNS.WATCH, NextDNS et AdGuard
+  fonctionnent de nouveau.
+
+**Android et Android TV**
+- Si l'image se fige en lecture, l'application relance un lecteur neuf au même endroit.
+
+**Mac et Apple TV** : pas de nouvelle version cette fois. Les fichiers proposés restent ceux de la
+1.0.99.
+
 ## 1.0.112 — 22 novembre 2026
 
 Cette version sort en même temps pour LG, Samsung, Android, Android TV et Windows. Elle

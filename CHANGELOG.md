@@ -23,6 +23,16 @@ Petite version, le jour même de la 1.0.114, pour LG, Samsung, Android, Android 
 - Le bouton **Version** garde toute sa largeur : son libellé (avec le débit) tient sur une ligne,
   deux au plus pour les plus longs, et ne déborde plus de son cadre.
 
+**Trakt**
+- **Chaque profil relie son propre compte Trakt** (Paramètres › Trakt). Le compte relié avant
+  cette version reste celui du premier profil ; les autres profils démarrent sans compte.
+- **Premium** : le compte Trakt d'un profil le suit sur tous tes appareils reliés à ton compte
+  CroissantTV, sans retaper de code. Se déconnecter de Trakt le fait sur tous ces appareils.
+- **Retirer des recommandations** : sur un titre des rangées « Films recommandés pour vous » et
+  « Séries recommandées pour vous », depuis son volet ou avec la touche jaune (Options). Le titre
+  disparaît et le suivant prend sa place ; les titres qui lui ressemblent remontent moins. Avec un
+  compte Trakt, le titre est aussi masqué de tes recommandations sur Trakt.
+
 **Mac et Apple TV** : pas de nouvelle version cette fois. Les fichiers proposés restent ceux de la
 1.0.99.
 

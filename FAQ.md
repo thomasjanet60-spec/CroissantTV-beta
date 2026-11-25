@@ -248,17 +248,17 @@ celle qui est affichée.
 
 Les nouvelles versions de la bêta sont publiées sur
 **[la page de la bêta](https://github.com/thomasjanet60-spec/CroissantTV-beta)**, avec la liste de ce qui
-change. Le numéro de ta version est affiché dans les **Paramètres** (par exemple `1.0.114`).
+change. Le numéro de ta version est affiché dans les **Paramètres** (par exemple `1.0.115`).
 
 Si tu as un compte GitHub, tu peux être prévenu par e-mail : bouton **Watch** de la page, puis **Custom › Releases**.
 
 > [!NOTE]
-> Sur **Android TV** et sur **téléphone Android**, l'application propose elle-même la nouvelle version, au plus
-> une fois par jour. Dans **Paramètres › Application › Mises à jour**, choisis **Me prévenir** (une bulle
+> Sur **Android TV** et sur **téléphone Android**, l'application propose elle-même la nouvelle version dès
+> son lancement, sur l'écran « Qui regarde ? », avant de charger tes chaînes. Dans **Paramètres › Application › Mises à jour**, choisis **Me prévenir** (une bulle
 > l'annonce, tu l'installes depuis ce même écran) ou **Installer toute seule** (à la sortie de l'application,
 > jamais pendant la lecture). Android te demande toujours de confirmer l'installation.
 >
-> Sur **LG**, **Samsung** et **Windows**, l'application te prévient aussi, mais l'installation se fait encore à
+> Sur **LG**, **Samsung** et **Windows**, l'application te prévient aussi au lancement, mais l'installation se fait encore à
 > la main : voir la partie « Mettre à jour » du guide de ton appareil.
 
 ### Mes réglages sont-ils conservés lors d'une mise à jour ?

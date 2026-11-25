@@ -3,6 +3,29 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.115 — 25 novembre 2026
+
+Petite version, le jour même de la 1.0.114, pour LG, Samsung, Android, Android TV et Windows.
+
+**Android et Android TV**
+- La **normalisation du son** (Paramètres, Léger ou Fort) est maintenant calculée par
+  l'application elle-même, et non plus par le téléviseur. Le volume reste le même ; elle marche
+  aussi sur les appareils plus anciens (avant Android 9).
+- Si l'image se fige en lecture, le journal envoyé au support dit précisément ce que faisait le son
+  à ce moment-là : ça nous aide à trouver la cause.
+
+**Mises à jour**
+- Une nouvelle version est maintenant **proposée dès le lancement**, sur l'écran « Qui regarde ? »,
+  avant le chargement de tes chaînes. Si le site ne répond pas, l'application démarre quand même
+  au bout de quelques secondes. Rien ne change si tu as choisi « Ne pas vérifier ».
+
+**Fiche d'un film ou d'une série**
+- Le bouton **Version** garde toute sa largeur : son libellé (avec le débit) tient sur une ligne,
+  deux au plus pour les plus longs, et ne déborde plus de son cadre.
+
+**Mac et Apple TV** : pas de nouvelle version cette fois. Les fichiers proposés restent ceux de la
+1.0.99.
+
 ## 1.0.114 — 25 novembre 2026
 
 Cette version sort en même temps pour LG, Samsung, Android, Android TV et Windows. Elle soigne la

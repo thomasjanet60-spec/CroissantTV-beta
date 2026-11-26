@@ -3,6 +3,42 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.116 — 26 novembre 2026
+
+Pour LG, Samsung, Android, Android TV et Windows.
+
+**Listes**
+- Depuis l'Accueil et la recherche, tu choisis où ranger un titre dès qu'une de tes playlists du
+  même type existe.
+- Dans Films et Séries, **Mes listes** les montre en tuiles : Ma liste, puis tes playlists. OK ouvre
+  la liste, Retour revient sur sa tuile.
+- Les playlists de **films** et de **séries** sont maintenant séparées.
+
+**Profils**
+- La bulle du profil déroule tes profils et **Gérer les profils**.
+- Quand deux profils utilisent la même source, passer de l'un à l'autre ne recharge plus
+  l'application.
+
+**Trakt**
+- Un appareil relié s'adresse maintenant directement à Trakt pour le nom du compte, la
+  synchronisation et les recommandations, qui échouaient en passant par notre serveur.
+
+**Lecture**
+- Replay : après une coupure répétée au même endroit, la lecture passe à la minute suivante au lieu
+  de tourner en boucle.
+- Un film demandé puis aussitôt remplacé par une chaîne ne s'ouvre plus par-dessus.
+- **Android et Android TV** : le menu **Audio** propose les pistes des chaînes et du replay, et
+  ouvrir la fiche d'un film ne change plus la langue d'une chaîne.
+
+**Affichage**
+- **Rechercher** passe en tête de la barre d'onglets (sauf si tu avais déjà rangé tes onglets).
+- L'Accueil a un élément sélectionné dès sa première ouverture, et la coche des menus se voit de
+  nouveau.
+- Les pictos TV, Films et Séries sont redessinés.
+
+**Mac et Apple TV** : pas de nouvelle version cette fois. Les fichiers proposés restent ceux de la
+1.0.99.
+
 ## 1.0.115 — 25 novembre 2026
 
 Petite version, le jour même de la 1.0.114, pour LG, Samsung, Android, Android TV et Windows.

@@ -3,6 +3,30 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.117 — 26 novembre 2026
+
+Pour LG, Samsung, Android, Android TV et Windows.
+
+**Lecture**
+- **Android TV à puce MediaTek** (Philips Google TV par exemple) : correctif de la coupure d'un
+  film ou d'un épisode vers 35 minutes, à confirmer chez toi. La piste son est renouvelée juste
+  avant : tu verras une à deux secondes de chargement à ce moment-là.
+
+**Accueil**
+- Le volet d'un titre est plus court : note, année, durée ou saisons, genres, le début de la
+  description, réalisation et distribution. **Lire** (ou **Reprendre**) est seul sur sa ligne,
+  suivi des pictos **Depuis le début**, **Bande-annonce** et **Mon Croissant**.
+- **Mon Croissant** ouvre toujours le choix de la liste, même sans playlist, pour en créer une ;
+  si ton profil est relié à Trakt, la **Watchlist Trakt** y figure.
+- L'onglet **Tendances** n'a plus les rangées « Nouveaux films » et « Nouvelles séries ».
+
+**Affichage**
+- Les pictos TV et Films sont simplifiés, et le trait de tous les onglets du bandeau est plus
+  fin.
+
+**Mac et Apple TV** : pas de nouvelle version cette fois. Les fichiers proposés restent ceux de la
+1.0.99.
+
 ## 1.0.116 — 26 novembre 2026
 
 Pour LG, Samsung, Android, Android TV et Windows.

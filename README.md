@@ -14,7 +14,7 @@ chaque membre de la famille.
 > CroissantTV **ne fournit aucune chaîne ni aucun film** : il lit l'abonnement que tu as déjà (Xtream, M3U ou
 > portail Stalker). Pas d'abonnement ? Le mode **Démo** te fait découvrir l'application.
 
-**Version actuelle : 1.0.117**, bêta du 26 novembre 2026. Ce qui a changé : **[journal des versions](CHANGELOG.md)**.
+**Version actuelle : 1.0.118**, bêta du 27 novembre 2026. Ce qui a changé : **[journal des versions](CHANGELOG.md)**.
 
 ## 1. Choisis ton appareil
 
@@ -39,8 +39,9 @@ Tous les guides et la FAQ dans un seul PDF, à imprimer si tu préfères le papi
 
 ## 2. Premiers pas
 
-À la première ouverture, CroissantTV te pose quelques questions pour se régler à ton goût : taille du
-texte, sombre ou clair, langue, sous-titres, ce que tu vois au démarrage… Tout est expliqué dans
+À la première ouverture, CroissantTV te guide : ton compte (facultatif), ton abonnement, puis quelques
+questions pour se régler à ton goût : langue de tes films et de tes chaînes, taille du texte, sombre ou
+clair… L'ordre n'est pas le même sur téléphone, tablette et Mac. Tout est expliqué dans
 **[Premiers pas](guides/Premiers-pas.md)**.
 
 ## 3. Une question ?
@@ -61,8 +62,9 @@ une photo de l'écran aide beaucoup. Les idées et les remarques sont aussi les 
 ## Ce qu'on aimerait que tu essaies
 
 1. **L'installation elle-même**, surtout sur **Samsung** et **LG** : dis-nous à quelle étape tu as hésité.
-2. **Les questions du premier lancement** ([Premiers pas](guides/Premiers-pas.md)) : une question était-elle
-   floue, un aperçu trompeur, un réglage introuvable ensuite ? Avec la télécommande LG, essaie aussi le pointeur.
+2. **Les questions du premier lancement** ([Premiers pas](guides/Premiers-pas.md) ; elles se voient sur une
+   nouvelle installation) : une question était-elle floue, un aperçu trompeur, un réglage introuvable
+   ensuite ? Avec la télécommande LG, essaie aussi le pointeur.
 3. **Les profils** : sur l'écran « Qui regarde ? », le pinceau sous chaque profil sert à le personnaliser, et un nouveau profil se crée en plein écran. Un profil protégé par un code se reverrouille après 5 minutes passées hors de l'application.
 4. **Le replay**, si ton abonnement le propose : regarde une émission déjà diffusée jusqu'au bout.
 5. **Les sous-titres en ligne** et la **bande-annonce** des films.

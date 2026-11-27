@@ -177,8 +177,8 @@ Pour éviter que ça se reproduise, appuie sur **EXTEND** dans Developer Mode un
 
 ### Comment ajouter mon abonnement ?
 
-Au premier lancement, CroissantTV te demande le type de ton abonnement : choisis celui qui correspond à ce que
-ton fournisseur t'a envoyé, et recopie les informations.
+Au premier lancement, sur l'écran **« Ajoute ta source IPTV »**, choisis le type de ton abonnement, celui qui
+correspond à ce que ton fournisseur t'a envoyé, et recopie les informations.
 
 - **Xtream** : une adresse de serveur (par exemple `http://serveur.exemple:8080`), un identifiant et un mot de passe.
 - **M3U** : un long lien, souvent terminé par `.m3u` ou contenant `get.php`.
@@ -248,7 +248,7 @@ celle qui est affichée.
 
 Les nouvelles versions de la bêta sont publiées sur
 **[la page de la bêta](https://github.com/thomasjanet60-spec/CroissantTV-beta)**, avec la liste de ce qui
-change. Le numéro de ta version est affiché dans les **Paramètres** (par exemple `1.0.117`).
+change. Le numéro de ta version est affiché dans les **Paramètres** (par exemple `1.0.118`).
 
 Si tu as un compte GitHub, tu peux être prévenu par e-mail : bouton **Watch** de la page, puis **Custom › Releases**.
 

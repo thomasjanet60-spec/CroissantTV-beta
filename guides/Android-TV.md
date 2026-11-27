@@ -83,7 +83,7 @@ github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest/download/Croissan
 > (Android TV et Google TV) ou l'application **Amazon Fire TV** (Fire TV) offrent une télécommande avec un
 > vrai clavier.
 
-Au premier lancement, CroissantTV te guide : il te demande ton abonnement IPTV, ou te propose la **démo** pour découvrir l'application sans abonnement. Il te propose ensuite de régler l'affichage, la langue et le démarrage en quelques questions : voir **[Premiers pas](Premiers-pas.md)**.
+Au premier lancement, CroissantTV te guide : il te propose d'abord de te connecter à un compte CroissantTV (facultatif), puis te demande ton abonnement IPTV, ou te propose la **démo** pour découvrir l'application sans abonnement. Viennent ensuite quelques questions sur la langue et l'affichage : voir **[Premiers pas](Premiers-pas.md)**.
 
 ---
 

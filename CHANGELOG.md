@@ -3,6 +3,44 @@
 Ce qui change d'une version à l'autre de la bêta, la plus récente en premier. Les fichiers à
 télécharger sont sur la [page de la dernière version](https://github.com/thomasjanet60-spec/CroissantTV-beta/releases/latest).
 
+## 1.0.118 — 27 novembre 2026
+
+Pour LG, Samsung, Android, Android TV et Windows.
+
+**Premier lancement** (TV et Windows)
+- Il est plus court : le **compte** d'abord (**Créer un compte** affiche un QR code, et la page s'ouvre
+  avec le code de l'appareil déjà rempli), puis ta source, la **langue** de tes films puis de tes
+  chaînes, l'affichage, tes autres comptes et qui regarde. La bienvenue, avec ses 48 heures de
+  Premium, s'affiche quand tu arrives dans l'application, et une nouvelle installation démarre sur
+  l'**Accueil**.
+- Sur téléphone et tablette, le premier lancement ne change pas.
+
+**Chaînes**
+- Paramètres : « **Langues masquées des chaînes** » masque les catégories de chaînes d'une langue, et
+  leurs chaînes dans « Toutes les chaînes » (Premium). Tes favoris restent affichés.
+
+**Accueil**
+- Sur TV et Windows, le volet d'un titre a deux rangées de boutons : **Depuis le début** à côté de
+  **Lire** (ou **Reprendre**), puis la **fiche**, **Mon Croissant** (un cœur remplace le « + »),
+  **Marquer comme vu** et **Bande-annonce** ; la description montre autant de lignes que la place le
+  permet.
+- « **Ce soir à la TV** » est masquée par défaut. Sur TV et Windows, Options (Jaune) › Réorganiser la
+  réaffiche ; sur téléphone et tablette, on ne peut pas encore la réafficher depuis l'appareil.
+- Sur TV et Windows, pour ajouter une chaîne à « **En ce moment sur vos chaînes** », ◄ et ► passent
+  d'une liste du guide à l'autre (Favoris, playlists, catégories), avec toutes leurs chaînes.
+- Sur TV et Windows, la bulle du profil suit quand tu changes de profil.
+- « **Recommandés pour vous** » : un titre qui compte peu pour toi (à peine entamé, par exemple) ne
+  remplit plus la rangée à lui seul.
+
+**TV LG**
+- Correctif d'un film repris qui repartait du début quelques secondes après la reprise, à confirmer
+  chez toi.
+- Paramètres au pointeur de la Magic Remote : les flèches ne restent plus bloquées quand le pointeur
+  est posé sur le panneau, à confirmer chez toi.
+
+**Mac et Apple TV** : pas de nouvelle version cette fois. Les fichiers proposés restent ceux de la
+1.0.99.
+
 ## 1.0.117 — 26 novembre 2026
 
 Pour LG, Samsung, Android, Android TV et Windows.
